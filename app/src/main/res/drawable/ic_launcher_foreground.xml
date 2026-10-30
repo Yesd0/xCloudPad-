@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Cloud arc above controller -->
+    <path
+        android:fillColor="#D4D4D4"
+        android:pathData="M38,34 C38,27.5 43.5,22 50,22 C54.8,22 58.9,24.8 60.8,28.9 C61.8,28.3 63.1,28 64.5,28 C68.6,28 72,31.4 72,35.5 C72,36.2 71.9,36.9 71.7,37.5 L36.3,37.5 C36.1,36.4 36,35.2 38,34 Z" />
+    <!-- Main ergonomic gamepad silhouette in Pure White -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M35,41 L73,41 C80.5,41 86,46.8 87.5,54.2 L89.8,66.5 C90.9,72.4 86.4,78 80.4,78 C76.2,78 72.5,75.4 70.6,71.6 L66.8,64 L41.2,64 L37.4,71.6 C35.5,75.4 31.8,78 27.6,78 C21.6,78 17.1,72.4 18.2,66.5 L20.5,54.2 C22,46.8 27.5,41 35,41 Z" />
+    <!-- D-Pad Cross in Pure Black -->
+    <path
+        android:fillColor="#080808"
+        android:pathData="M33,47 H37 V51 H41 V55 H37 V59 H33 V55 H29 V51 H33 Z" />
+    <!-- ABXY Monochrome Dots -->
+    <path
+        android:fillColor="#080808"
+        android:pathData="M71,46.5 A2.6,2.6 0 1,1 71,51.7 A2.6,2.6 0 1,1 71,46.5 Z" />
+    <path
+        android:fillColor="#080808"
+        android:pathData="M76,51.5 A2.6,2.6 0 1,1 76,56.7 A2.6,2.6 0 1,1 76,51.5 Z" />
+    <path
+        android:fillColor="#080808"
+        android:pathData="M71,56.5 A2.6,2.6 0 1,1 71,61.7 A2.6,2.6 0 1,1 71,56.5 Z" />
+    <path
+        android:fillColor="#080808"
+        android:pathData="M66,51.5 A2.6,2.6 0 1,1 66,56.7 A2.6,2.6 0 1,1 66,51.5 Z" />
+    <!-- Center Guide Nexus -->
+    <path
+        android:fillColor="#080808"
+        android:pathData="M54,46.5 A3.2,3.2 0 1,1 54,52.9 A3.2,3.2 0 1,1 54,46.5 Z" />
+</vector>

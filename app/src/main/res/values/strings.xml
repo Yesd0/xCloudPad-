@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">xCloud Pad</string>
+    <string name="xbox_guide_button">Xbox Guide</string>
+    <string name="quit_game_button">Quit Game</string>
+    <string name="cast_to_tv_title">Cast Video to External TV</string>
+    <string name="stop_casting_button">Stop Casting</string>
+    <string name="no_external_display_message">Connect a USB-C to HDMI adapter or Wireless Display (Miracast) in Android Settings to cast the stream to your TV.</string>
+    <string name="debug_panel_title">Gamepad &amp; Cast Telemetry</string>
+    <string name="layout_editor_title">Layout Editor (Drag Controls)</string>
+</resources>

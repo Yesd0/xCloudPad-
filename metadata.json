@@ -1,0 +1,6 @@
+{
+  "name": "xCloud Pad",
+  "description": "Personal-use Android streaming gamepad and external display companion for Xbox Cloud Gaming powered by Better xCloud.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
